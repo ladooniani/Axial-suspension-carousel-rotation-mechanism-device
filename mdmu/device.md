@@ -1,4 +1,4 @@
-👉 [Main](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/mdmu/device.md)
+👉 [Main](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device)
  
 
 ## Servo cable signal booster:
