@@ -2,11 +2,11 @@
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Axial-suspension-carousel-rotation-mechanism-device.jpg" width="800">  
 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Axial-suspension-carousel-rotation-mechanism-device-1.jpg" width="800">  
+
 ## 3d printing test size 
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Untitled-2.jpg" width="800">  
-
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Axial-suspension-carousel-rotation-mechanism-device-1.jpg" width="800">  
 
  <!---  #### 🔑 password: ``` taiascrm ``` --->
 
