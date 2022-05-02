@@ -14,7 +14,7 @@
 
 👉 [Download mechanism device parts STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-mechanism-device-parts.zip)
 
-👉 [Download mechanism device parts STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-metal-cut-part.zip)
+👉 [Download mechanism metal cut parts DFX and DWG](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-metal-cut-part.zip)
 
 ## List
 
