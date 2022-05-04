@@ -1,4 +1,4 @@
-# Axial suspension carousel rotation mechanism device
+# Through-axle suspended rotating mechanism
 
 #### 🔑 password: ``` taiascrm ```
 
