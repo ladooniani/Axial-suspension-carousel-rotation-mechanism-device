@@ -1,4 +1,4 @@
-# Through-axle suspended rotating mechanism
+# Through-axle suspended rotating mechanism device
 
 #### 🔑 password: ``` taiascrm ```
 
