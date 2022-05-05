@@ -4,7 +4,7 @@
 
 👉 [Download tasrm device plastic parts STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
-| ID | Part | Infill  |  Wall   | Number | Layer | Density |  |   
+| ID | Part | Infill  |  Wall   | Number |  Density | Layer |  |   
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
 | 1 | tasrmd-axis-fix-hat.stl | 80 % | 4-5 mm | 1 | -mid-max  |  |  |
 | 2 | tasrmd-axis-shaft.stl |  80-100 % | 4-5 mm | 1 | -mid-max  |   |  |
