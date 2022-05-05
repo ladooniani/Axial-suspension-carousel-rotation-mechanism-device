@@ -17,7 +17,7 @@
 | 9 | tasrmd-hex-disc.stl | 90-100 % |  5-6 mm | 1 | -mid-max |   |    |
 | 10 | tasrmd-hex-disc-slot-x3.stl | 90-100 % |  5-6 mm | 3 | -mid-max |   |    |
 | 11 | tasrmd-motor-socket.stl | 70 % |  3-4 mm | 1 | -mid-   |   |    |
-| 12 | tasrmd-suspension-holder-x3.stl | 80 % |  3-4 mm | 3 | -mid-  |   |    |
+| 12 | tasrmd-suspension-holder-x3.stl | 80 % |  3-4 mm | 3 | -mid-max  |   |    |
 
 👉 [Download tasrm device metal parts DFX and DWG](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
 
