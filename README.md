@@ -18,12 +18,15 @@ Intelligent systems and robotics laboratory<sub>
 
 ### ✔️ Content
 
+ - [Archive team access password](#Archive-team-access-password)
  - [Download 3D prining mechanism plastic parts STL files](#3D-prining-mechanism-plastic-parts)
  - [Download CNC cut metal parts DFX and DWG files](#CNC-cut-metal-parts)
  
+# Archive team access password
+ 
+### 🔑 password: ``` taiascrm ```
+ 
 # 3D prining mechanism plastic parts
-
-#### 🔑 password: ``` taiascrm ```
 
 👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
