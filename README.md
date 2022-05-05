@@ -25,10 +25,5 @@
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Through-axle-suspended-rotating-mechanism-device.jpg" width="800">  
 
- 
-
-## List
-
-📌  [Device list](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/mdmu/device.md)
 
  
