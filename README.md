@@ -6,7 +6,6 @@
 
 | Printing order  | Part | Infill  |  Wall   | Number |  Density | Test phase | Layer  |   
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
-
 | 1 | tasrmd-hex-disc-slot-x3.stl | 90-100 % |  5-6 mm | 3 | -mid-max | a |    |
 | 2 | tasrmd-hex-disc.stl | 90-100 % |  5-6 mm | 1 | -mid-max | a |    |
 | 3 | tasrmd-gear-2.stl | 90-100 % |  5-6 mm |  1 | --max | a |    |
