@@ -25,7 +25,7 @@ Intelligent systems and robotics laboratory**
 
 #### 🔑 password: ``` taiascrm ```
 
-👉 💿 [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
+👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
 | Printing order  | Part | Infill  |  Wall   | Number |  Density | Test phase | Correction case  |   Layer  | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
@@ -44,7 +44,7 @@ Intelligent systems and robotics laboratory**
 
 # CNC cut metal parts 
 
-👉 💿 [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
+👉 📌  [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
 
 | ID  | Part | Metal sheet thickness |   
 | ------------- | ------------- | ------------- |  
@@ -70,6 +70,8 @@ To support the project follow the donation link:
 ## Lab
 
 ### 🔬 [TAI lab](https://ladooniani.github.io/tailab/) 
+
+<sub>📃 [TAI lab. Terbinari CBM project pdf](https://github.com/ladooniani/tailab/blob/master/docs/tai.pdf)<sub>
 
 <sub>Copyright © 2016-2021 Lado Oniani, TAI Lab. All Rights Reserved<sub>
 
