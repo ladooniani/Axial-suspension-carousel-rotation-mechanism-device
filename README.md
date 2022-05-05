@@ -2,11 +2,9 @@
 
 #### 🔑 password: ``` taiascrm ```
 
-👉 [Download print size test STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-print-size-test.zip)
+👉 [Download tasrm device plastic parts STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
-👉 [Download mechanism device parts STL](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-mechanism-device-parts.zip)
-
-👉 [Download mechanism metal cut parts DFX and DWG](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/ascrm-metal-cut-part.zip)
+👉 [Download tasrm device metal parts DFX and DWG](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Axial-suspension-carousel-rotation-mechanism-device.jpg" width="800">  
 
