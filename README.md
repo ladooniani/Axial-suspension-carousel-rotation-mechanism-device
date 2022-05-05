@@ -46,7 +46,7 @@ Intelligent systems and robotics laboratory**
 
 👉 [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
 
-| ID  | Part | metal sheet thickness |   
+| ID  | Part | Metal sheet thickness |   
 | ------------- | ------------- | ------------- |  
 | 1 | tasrmd-mp-disc-plate-1.dfx | 1.5 mm |  
 | 2 | tasrmd-mp-disc-plate-2.dfx | 1.5 mm |  
