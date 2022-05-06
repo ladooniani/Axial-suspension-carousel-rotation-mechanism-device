@@ -20,6 +20,7 @@ Intelligent systems and robotics laboratory**
 
  - [Development](#Development)
  - [Mounting](#Mounting)
+ - [Tent](#Tent)
  - [Description](#Description)
  - [Using](#Using)
 
