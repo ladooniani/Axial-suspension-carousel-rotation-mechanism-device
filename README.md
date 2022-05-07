@@ -26,7 +26,7 @@ Intelligent systems and robotics laboratory**
  
  # Repository 
  
-🔌 [Through axle suspended rotating mechanism device controller sketch](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch) 
+🔌 [Through axle suspended rotating mechanism device continuous rotation controller sketch](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch) 
  
 # Development 
 
