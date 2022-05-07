@@ -18,15 +18,16 @@ Intelligent systems and robotics laboratory**
 
 ### ✔️ Content
 
+ - [Repositories](#Repositories)
  - [Development](#Development)
  - [Mounting](#Mounting)
  - [Tent](#Tent)
  - [Description](#Description)
  - [Using](#Using)
  
- # Repository 
+ # Repositories 
  
-🔌 [Through axle suspended rotating mechanism device continuous rotation controller sketch](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch) 
+🔌 [Through axle suspended rotating mechanism device continuous rotation controller sketch repository](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch) 
  
 # Development 
 
