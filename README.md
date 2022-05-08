@@ -19,7 +19,7 @@ Intelligent systems and robotics laboratory**
 ### ✔️ Content
 
  - [Repositories](#Repositories)
- - [Development](#Development)
+ - [Development and production](#Development-and-production)
  - [Mounting](#Mounting)
  - [Tent](#Tent)
  - [Description](#Description)
@@ -29,7 +29,7 @@ Intelligent systems and robotics laboratory**
  
 🔌 [Through axle suspended rotating mechanism device continuous rotation controller sketch repository](https://github.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-controller-sketch) 
  
-# Development 
+# Development and production  
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/3dp-cnc.jpg" width="800">   
 
