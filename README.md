@@ -31,6 +31,8 @@ Intelligent systems and robotics laboratory**
  
 # Development 
 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/3dp-cnc.jpg" width="800">   
+
 ### ✔️ Content
  <!--- - [Archive team access password](#Archive-team-access-password) --->
  - [3D prining mechanism plastic parts STL files](#3D-prining-mechanism-plastic-parts)
