@@ -33,8 +33,8 @@ Intelligent systems and robotics laboratory**
 
 ### ✔️ Content
  <!--- - [Archive team access password](#Archive-team-access-password) --->
- - [Download 3D prining mechanism plastic parts STL files](#3D-prining-mechanism-plastic-parts)
- - [Download CNC cut metal parts DFX and DWG files](#CNC-cut-metal-parts)
+ - [3D prining mechanism plastic parts STL files](#3D-prining-mechanism-plastic-parts)
+ - [CNC cut metal parts DFX and DWG files](#CNC-cut-metal-parts)
 
 <!--- # Archive team access password
  
