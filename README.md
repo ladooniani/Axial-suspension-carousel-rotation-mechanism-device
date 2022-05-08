@@ -59,7 +59,7 @@ Intelligent systems and robotics laboratory**
 | 11 | tasrmd-board-box-cover.stl | 80-100 % |  3-1 mm | 1 | min-mid- |  d |    ||
 | 12| tasrmd-motor-socket.stl | 70 % |  3-4 mm | 1 | -mid-   | d |  x  ||
 | 13 | tasrmd-tent-holder.stl | 50-60 % |  3-1 mm | 1 | min-mid- |  d |    ||
-| 14| tasrmd-axis-fix-cap.stl | 70 % |  3-4 mm | 1 | -mid-   | d |  x  ||
+| 14| tasrmd-axis-fix-cap.stl | 70 % |  3-4 mm | 1 | -mid-   | d |    ||
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printed-part-1.jpg" width="800">  
  
