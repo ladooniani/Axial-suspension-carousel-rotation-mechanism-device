@@ -103,7 +103,12 @@ Intelligent systems and robotics laboratory**
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-1.jpg" width="800">  
  
-  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-2.jpg" width="800">  
+ 
+   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-2.jpg" width="800">  
+   
+  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-3.jpg" width="800">
+  
+   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-4.jpg" width="800"> 
 
 # Mounting 
 
