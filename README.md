@@ -43,6 +43,8 @@ Intelligent systems and robotics laboratory**
  
 # 3D prining mechanism plastic parts
 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printed-part-1.jpg" width="800">  
+ 
 👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
 | Printing order  | Part | Infill  |  Wall   | Number |  Density | Test phase | Correction case  |   Layer  | 
