@@ -69,6 +69,10 @@ Intelligent systems and robotics laboratory**
  
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printing-test.jpg" width="800">   
  
+  ### Gear test
+  
+https://user-images.githubusercontent.com/33939191/167301819-7c4b78b5-1952-40c5-bfac-3b9816a7f59d.mp4
+
  <!--- 👉 <sub>[3D printing](https://www.facebook.com/3DWorkshop.ge)<sub> --->
  
 # CNC cut metal parts 
