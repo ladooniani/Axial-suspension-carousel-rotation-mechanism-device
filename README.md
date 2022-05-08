@@ -43,8 +43,6 @@ Intelligent systems and robotics laboratory**
  
 # 3D prining mechanism plastic parts
 
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printed-part-1.jpg" width="800">  
- 
 👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
 
 | Printing order  | Part | Infill  |  Wall   | Number |  Density | Test phase | Correction case  |   Layer  | 
@@ -62,6 +60,8 @@ Intelligent systems and robotics laboratory**
 | 11 | tasrmd-board-box-cover.stl | 80-100 % |  3-1 mm | 1 | min-mid- |  d |    ||
 | 12| tasrmd-motor-socket.stl | 70 % |  3-4 mm | 1 | -mid-   | d |  x  ||
 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printed-part-1.jpg" width="800">  
+ 
 # CNC cut metal parts 
 
 👉 📌  [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
