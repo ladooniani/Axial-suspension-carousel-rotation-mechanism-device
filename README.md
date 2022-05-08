@@ -21,6 +21,7 @@ Intelligent systems and robotics laboratory**
  - [Repositories](#Repositories)
  - [Development and production](#Development-and-production)
  - [Assembly](#Assembly)
+ - [Controller and motor](#Controller-and-motor)
  - [Mounting](#Mounting)
  - [Tent](#Tent)
  - [Description](#Description)
@@ -109,6 +110,10 @@ Intelligent systems and robotics laboratory**
   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-3.jpg" width="800">
   
    <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-4.jpg" width="800"> 
+   
+# Controller and motor
+
+   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-5.jpg" width="800"> 
 
 # Mounting 
 
