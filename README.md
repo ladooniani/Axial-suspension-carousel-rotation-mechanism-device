@@ -73,7 +73,8 @@ Intelligent systems and robotics laboratory**
 | 3 | tasrmd-mp-rod-washer-1.dfx | 1.5 mm |   
 | 4 | tasrmd-mp-rod-washer-2.dfx | 1.5 mm |  
  
- 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/metal-parts.jpg" width="800">  
+  
 # Mounting 
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
