@@ -62,6 +62,10 @@ Intelligent systems and robotics laboratory**
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printed-part-1.jpg" width="800">  
  
+ ### Printing test
+ 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/printing-test.jpg" width="800">   
+ 
 # CNC cut metal parts 
 
 👉 📌  [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
