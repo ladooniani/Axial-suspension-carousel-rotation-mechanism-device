@@ -20,6 +20,7 @@ Intelligent systems and robotics laboratory**
 
  - [Repositories](#Repositories)
  - [Development and production](#Development-and-production)
+ - [Assembly](#Assembly)
  - [Mounting](#Mounting)
  - [Tent](#Tent)
  - [Description](#Description)
@@ -97,6 +98,12 @@ Intelligent systems and robotics laboratory**
 | ------------- | ------------- | ------------- |  ------------- |  
 | 1 | rubber-washer-17x30x10.dfx | 8-12 mm | 1 |
 | 2 | rubber-washer-12x30x10-x3.dfx | 8-12 mm | 3 |  
+
+# Assembly
+
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-1.jpg" width="800">  
+ 
+  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-2.jpg" width="800">  
 
 # Mounting 
 
