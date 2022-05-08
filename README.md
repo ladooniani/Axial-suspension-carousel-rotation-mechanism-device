@@ -93,10 +93,10 @@ Intelligent systems and robotics laboratory**
 
 👉 📌  [Download tasrm device CNC cut rubber parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-rubber-part.zip)
 
-| ID  | Part | Rubber thickness |   
-| ------------- | ------------- | ------------- |  
-| 1 | rubber-washer-17x30x10.dfx | 8-12 mm |  
-| 2 | rubber-washer-12x30x10-x3.dfx | 8-12 mm |  
+| ID  | Part | Rubber thickness | Number |  
+| ------------- | ------------- | ------------- |  ------------- |  
+| 1 | rubber-washer-17x30x10.dfx | 8-12 mm | 1 |
+| 2 | rubber-washer-12x30x10-x3.dfx | 8-12 mm | 3 |  
 
 # Mounting 
 
