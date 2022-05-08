@@ -23,7 +23,7 @@ Intelligent systems and robotics laboratory**
  - [Mounting](#Mounting)
  - [Tent](#Tent)
  - [Description](#Description)
- - [Using](#Using)
+ - [User manual](#User-manual)
  
  # Repositories 
  
