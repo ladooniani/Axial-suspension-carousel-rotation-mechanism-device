@@ -37,6 +37,7 @@ Intelligent systems and robotics laboratory**
  <!--- - [Archive team access password](#Archive-team-access-password) --->
  - [3D prining mechanism plastic parts STL files](#3D-prining-mechanism-plastic-parts)
  - [CNC cut metal parts DFX and DWG files](#CNC-cut-metal-parts)
+ - [CNC cut rubber parts DFX and DWG files](#CNC-cut-rubber-parts)
 
 <!--- # Archive team access password
  
@@ -87,7 +88,16 @@ Intelligent systems and robotics laboratory**
 | 4 | tasrmd-mp-rod-washer-2.dfx | 1.5 mm |  
  
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/metal-parts.jpg" width="800">  
-  
+
+# CNC cut rubber parts 
+
+👉 📌  [Download tasrm device CNC cut rubber parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-rubber-part.zip)
+
+| ID  | Part | Rubber thickness |   
+| ------------- | ------------- | ------------- |  
+| 1 | rubber-washer-17x30x10.dfx | 8-12 mm |  
+| 2 | rubber-washer-12x30x10-x3.dfx | 8-12 mm |  
+
 # Mounting 
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
