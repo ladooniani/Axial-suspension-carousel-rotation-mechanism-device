@@ -119,6 +119,8 @@ Intelligent systems and robotics laboratory**
 # Controller and motor
 
    <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-5.jpg" width="800"> 
+   
+https://user-images.githubusercontent.com/33939191/167320354-840775d3-64a6-42f1-8df6-e841a932974d.mp4
 
 # Mounting 
 
