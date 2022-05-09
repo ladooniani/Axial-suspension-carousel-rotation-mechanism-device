@@ -104,21 +104,21 @@ Intelligent systems and robotics laboratory**
 
 ### Gear capsule
 
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-0.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-0.jpg" width="800">  
  
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-6.jpg" width="800"> 
  
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-1.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-1.jpg" width="800">  
  
- ### Hex disc
+### Hex disc
  
-   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-2.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-2.jpg" width="800">  
     
-  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-3.jpg" width="800">
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-3.jpg" width="800">
   
-   <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-4.jpg" width="800"> 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-4.jpg" width="800"> 
    
-      <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-7.jpg" width="800"> 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-assembly-7.jpg" width="800"> 
    
 # Controller and motor
 
@@ -126,21 +126,19 @@ Intelligent systems and robotics laboratory**
    
 https://user-images.githubusercontent.com/33939191/167320354-840775d3-64a6-42f1-8df6-e841a932974d.mp4
 
-
 https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-89f7-5c5a7ad52dd7.mp4
-
 
 # Mounting 
 
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
 
- # Tent
+# Tent
 
- <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
  
- ### Tent mounting 
+### Tent mounting 
  
-  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
  
 <!--- 
 
