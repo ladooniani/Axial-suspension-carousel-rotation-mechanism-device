@@ -27,6 +27,7 @@ Intelligent systems and robotics laboratory**
  - [Tent](#Tent)
  - [Description](#Description)
  - [User manual](#User-manual)
+ - [Collaboration team](#Collaboration team)
  
  # Device
  
@@ -154,6 +155,13 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 ## Tent mounting 
  
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
+
+# Collaboration team
+
+-- Lado Oniani - Mechanical engineering and programming
+-- Ivane Nazgaidze - 3D printing service
+-- Aleksander Chkhaidze - ET consultant
+-- Polina Zhuravkova - Artist
  
 <!--- 
 
