@@ -159,13 +159,13 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 # Collaboration team
 
 
-(Lado Oniani)[https://github.com/ladooniani] - Mechanical engineering and programming
+[Lado Oniani](https://github.com/ladooniani) - Mechanical engineering and programming
  
-(Ivane Nazgaidze)[https://github.com/Int3lig3nt] - (3D printing service)[https://www.facebook.com/3DWorkshop.ge]
+[Ivane Nazgaidze](https://github.com/Int3lig3nt) - [3D printing service](https://www.facebook.com/3DWorkshop.ge)
  
 Aleksander Chkhaidze - ET consultant
  
-(Polina Zhuravkova)[https://github.com/polinazhuravkova] - Artist
+[Polina Zhuravkova](https://github.com/polinazhuravkova) - Artist
 
  
 <!--- 
