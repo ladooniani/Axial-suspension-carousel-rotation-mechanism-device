@@ -18,6 +18,7 @@ Intelligent systems and robotics laboratory**
 
 ### ✔️ Content
 
+ - [Device](#Device)
  - [Repositories](#Repositories)
  - [Development and production](#Development-and-production)
  - [Assembly](#Assembly)
@@ -26,6 +27,12 @@ Intelligent systems and robotics laboratory**
  - [Tent](#Tent)
  - [Description](#Description)
  - [User manual](#User-manual)
+ 
+ # Device
+ 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-mechanism-device-1.jpg" width="800">  
+ 
+ <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-mechanism-device-2.jpg" width="800">  
  
  # Repositories 
  
