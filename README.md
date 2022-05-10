@@ -27,7 +27,7 @@ Intelligent systems and robotics laboratory**
  - [Tent](#Tent)
  - [Description](#Description)
  - [User manual](#User-manual)
- - [Collaboration team](#Collaboration team)
+ - [Collaboration team](#Collaboration-team)
  
  # Device
  
