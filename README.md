@@ -165,7 +165,7 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
  
 Aleksander Chkhaidze - ET consultant
  
-[Polina Zhuravkova](https://github.com/polinazhuravkova) - Artist
+[Polina Zhuravkova](https://github.com/polinazhuravkova) - Concept artist
 
  
 <!--- 
