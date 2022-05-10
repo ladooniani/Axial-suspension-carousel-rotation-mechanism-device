@@ -158,10 +158,15 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 
 # Collaboration team
 
--- Lado Oniani - Mechanical engineering and programming
--- Ivane Nazgaidze - 3D printing service
--- Aleksander Chkhaidze - ET consultant
--- Polina Zhuravkova - Artist
+<sub>
+Lado Oniani - Mechanical engineering and programming
+ 
+Ivane Nazgaidze - 3D printing service
+ 
+Aleksander Chkhaidze - ET consultant
+ 
+Polina Zhuravkova - Artist
+<sub>
  
 <!--- 
 
