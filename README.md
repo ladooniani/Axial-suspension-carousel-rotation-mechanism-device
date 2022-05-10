@@ -12,7 +12,7 @@ Intelligent systems and robotics laboratory**
 
 [<img alt="TAI Lab." width="59px" src="https://github.com/ladooniani/tailab/blob/master/assets/tai_lab_terbinari_cbm_project_logo.png" />](https://github.com/ladooniani/terbinari) 
  
-# Through-axle suspended rotating mechanism device
+# Through-axle suspended rotating mechanism device prototype 
 
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/Through-axle-suspended-rotating-mechanism-device.jpg" width="800">  
 
