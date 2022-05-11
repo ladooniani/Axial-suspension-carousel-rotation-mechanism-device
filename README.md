@@ -24,7 +24,6 @@ Intelligent systems and robotics laboratory**
  - [Assembly](#Assembly)
  - [Controller and motor](#Controller-and-motor)
  - [Mounting](#Mounting)
- - [Tent](#Tent)
  - [Description](#Description)
  - [User manual](#User-manual)
  - [Collaboration team](#Collaboration-team)
@@ -180,6 +179,8 @@ Put on the second rubber washer and temporarily tape it to the knot.
 
 5. 
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
+
 Fit onto the balance tube in the order from top of balancing pipe to bottom vertically:
 
 a. Mounting disk. 
@@ -204,6 +205,8 @@ Pass the two fixing ropes through the hole between the rope and the metal suspen
 
 9.
 
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
+
 Insert the paired tubes into the holes of the triangular rotating disk, then slide the suspension holder onto each pair. Connect the holes of the mounting disk and the suspension holders at the ends of the pipes with a thin iron wire rope.
 
 10.
@@ -214,14 +217,6 @@ Without auxiliary cables up to 8 kg. / 2.5-2.6 per end.
 With the use of metal cables up to 15 kg. / 5 kg per end.
 
 With maximum weight, additionally secure the suspension holders at the desired diameter distance using adhesive tape wrapping around the pair tubes in front the suspension holder passage hole on both sides to prevent slipping. 
-
-## Tent
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
- 
-## Tent mounting 
- 
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
 
 # Collaboration team
 
