@@ -213,10 +213,11 @@ Insert the paired tubes into the holes of the triangular rotating disk, then sli
 
 Distribute the weight evenly:
 
-Without auxiliary cables up to 8 kg. / 2.5-2.6 per end.
-With the use of metal cables up to 15 kg. / 5 kg per end.
+Recommended weight up to 3 - 6 kg. / 1 - 2 per end.
+Maximum weight without auxiliary cables up to 7 kg. / 2.3 per end.
+Maximum weight with the use of metal cables up to 8 - 15 kg. / 2.5, 2.6 - 5 kg. per end.
 
-With maximum weight, additionally secure the suspension holders at the desired diameter distance using adhesive tape wrapping around the pair tubes in front the suspension holder passage hole on both sides to prevent slipping. 
+With maximum weights, additionally secure the suspension holders at the desired diameter distance using adhesive tape wrapping around the pair tubes in front the suspension holder passage hole on both sides to prevent slipping. 
 
 # Collaboration team
 
