@@ -148,7 +148,7 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
 
-## Tools:
+### Tools:
 
 a. Rope 12mm diameter. 
 
@@ -159,6 +159,8 @@ c. Adhesive tape.
 d. As a height marker, use a hair tie, fixing it at the right level on the rope. 
 
 e. Screwdriver /  Нex 2.5 mm. 
+
+### Installation:
 
 1. 
 
