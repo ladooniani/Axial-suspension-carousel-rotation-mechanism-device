@@ -150,10 +150,10 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 
 ## Tools:
 
-a. Rope 12mm diameter.
-b. Folding ladder.
-c. Adhesive tape.
-d. As a height marker, use a hair tie, fixing it at the right level on the rope.
+a. Rope 12mm diameter. 
+b. Folding ladder. 
+c. Adhesive tape. 
+d. As a height marker, use a hair tie, fixing it at the right level on the rope. 
 e. Screwdriver /  Нex 2.5 mm. 
 
 1. Hang the rope securely at height 3-4 meters.
