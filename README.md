@@ -151,6 +151,59 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 ## Tent
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
+
+# Installation
+
+## Tools:
+
+1. Rope 12mm diameter.
+2. Folding ladder.
+3. Adhesive tape.
+3. As a height marker, use a hair tie, fixing it at the right level on the rope.
+4. Screwdriver /  Нex 2.5 mm.
+
+1. Hang the rope securely at height 3-4 meters.
+
+2. Using a folding ladder, measure rope from the ground and mark the desired height of the rotating disk suspension.
+
+Measure and mark the distance from the set level up the rope to a height 1.80 m. (Depending on the length of the balancing pipe).
+
+3. Put the metal suspension ring on the rope first. Next, put the rubber washer on and fasten them over the knot of the rope at the height of the top mark.
+
+Make sure that the washer is firmly on the knot and will not slip through the knot when pressure is applied.
+
+4. Put on the second rubber washer and temporarily tape it to the knot.
+
+5. Fit onto the balance tube in the order from top of balancing pipe to bottom vertically:
+
+a. Mounting disk. 
+b. Metal mounting ring. 
+c. Height lock. 
+
+Temporarily fix these parts with tape approximately in the middle of the pipe. Put the balance pipe from top side onto the rope and temporarily tape it to the knot.
+
+6. Pass the rope through the device, then raise the device to the desired height so that when the rope is in a vertical position, the device is above the bottom mark.
+
+Put on the third rubber washer and tie a knot under it at the level of the bottom mark. 
+
+Make sure the washer does not slip through the knot.
+
+7. Remove the adhesive tape and insert the pipe into the device axle hole and secure it with six fixing screws on both sides. 
+
+Make sure the pipe does not slip out of the hole under moderate pressure.
+
+8. Pass the two fixing ropes through the hole between the rope and the metal suspension ring.
+
+Thread the fastening ropes separately through the two holes in the top of the balancing pipe for each. Pull and hand the device up over the lower rubber washer at a distance of about 0.5-1 cm, then hold the desired level and securely tie the fastening ropes.
+
+9. Insert the paired tubes into the holes of the triangular rotating disk, then slide the suspension holder onto each pair. Connect the holes of the mounting disk and the suspension holders at the ends of the pipes with a thin iron wire rope.
+
+10. Distribute the weight evenly.
+
+Without auxiliary cables up to 8 kg. / 2.5-2.6 per end.
+With the use of metal cables up to 15 kg. / 5 kg per end
+
+With maximum weight, recommended additionally secure the suspension holders at the desired diameter distance using adhesive tape wrapping around the pair tubes in front the suspension holder passage hole on both sides to prevent slipping. 
  
 ## Tent mounting 
  
