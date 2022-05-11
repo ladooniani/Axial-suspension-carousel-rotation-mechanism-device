@@ -148,12 +148,6 @@ https://user-images.githubusercontent.com/33939191/167320622-5ef2e4a5-89fa-46df-
 
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-1.jpg" width="800">  
 
-## Tent
-
-<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
-
-# Installation
-
 ## Tools:
 
 a. Rope 12mm diameter.
@@ -192,13 +186,16 @@ Without auxiliary cables up to 8 kg. / 2.5-2.6 per end.
 With the use of metal cables up to 15 kg. / 5 kg per end
 
 With maximum weight, additionally secure the suspension holders at the desired diameter distance using adhesive tape wrapping around the pair tubes in front the suspension holder passage hole on both sides to prevent slipping. 
+
+## Tent
+
+<img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-2.jpg" width="800">  
  
 ## Tent mounting 
  
 <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-device-3.jpg" width="800">  
 
 # Collaboration team
-
 
 [Lado Oniani](https://github.com/ladooniani) - Design, mechanical engineering, programming
  
@@ -208,7 +205,6 @@ Aleksander Chkhaidze - ET consultant
  
 [Polina Zhuravkova](https://github.com/polinazhuravkova) - Concept artist
 
- 
 <!--- 
 
 ## 💖 Support project
