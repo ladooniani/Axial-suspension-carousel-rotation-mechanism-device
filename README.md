@@ -50,13 +50,9 @@ https://user-images.githubusercontent.com/33939191/167609797-0ee49cca-c6a5-4780-
  - [CNC cut metal parts DFX and DWG files](#CNC-cut-metal-parts)
  - [CNC cut rubber parts DFX and DWG files](#CNC-cut-rubber-parts)
 
-<!--- # Archive team access password
- 
-#### 🔑 password: ``` taiascrm ``` --->
- 
 # 3D prining mechanism plastic parts
 
-👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-plastic-parts.zip)
+👉 📌  [Download tasrm device 3D prining mechanism plastic parts STL files](https://gitlab.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-prototype/-/blob/main/TASRMDP-Model/tasrm-device-plastic-parts.zip)
 
 | Printing order  | Part | Infill  |  Wall   | Number |  Density | Test phase | Correction case  |   Layer  | 
 | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | ------------- | 
@@ -89,7 +85,7 @@ https://user-images.githubusercontent.com/33939191/167609797-0ee49cca-c6a5-4780-
  
 # CNC cut metal parts 
 
-👉 📌  [Download tasrm device CNC cut metal parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-metal-part.zip)
+👉 📌  [Download tasrm device CNC cut metal parts DFX and DWG files](https://gitlab.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-prototype/-/blob/main/TASRMDP-Model/tasrm-device-metal-part.zip)
 
 | ID  | Part | Metal sheet thickness |   
 | ------------- | ------------- | ------------- |  
@@ -102,7 +98,7 @@ https://user-images.githubusercontent.com/33939191/167609797-0ee49cca-c6a5-4780-
 
 # CNC cut rubber parts 
 
-👉 📌  [Download tasrm device CNC cut rubber parts DFX and DWG files](https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/stl/tasrm-device-rubber-part.zip)
+👉 📌  [Download tasrm device CNC cut rubber parts DFX and DWG files](https://gitlab.com/ladooniani/Through-axle-suspended-rotating-mechanism-device-prototype/-/blob/main/TASRMDP-Model/tasrm-device-rubber-part.zip)
 
 | ID  | Part | Rubber thickness | Number |  
 | ------------- | ------------- | ------------- |  ------------- |  
