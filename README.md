@@ -221,7 +221,7 @@ With maximum weights, additionally secure the suspension holders at the desired 
 
 # Collaboration team
 
-[Lado Oniani](https://github.com/ladooniani) - Design, mechanical engineering, programming
+[Lado Oniani](https://github.com/ladooniani) - Prototyping, design, mechanical engineering, programming
  
 [Ivane Nazgaidze](https://github.com/Int3lig3nt) - [3D printing service](https://www.facebook.com/3DWorkshop.ge)
  
