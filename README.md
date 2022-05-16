@@ -31,7 +31,7 @@ Intelligent systems and robotics laboratory**
  
 # Description
  
-The device provides installation on the vertical rope, passing through the axis and rotating suspended objects with a uniformly distributed weight on the ends of triangular disc tubes construction.
+The device provides installation on the vertical rope, passing through the axis, and rotation of suspended objects uniformly distributed weight on the ends of triangular disc construction.
  
  # Device
  
