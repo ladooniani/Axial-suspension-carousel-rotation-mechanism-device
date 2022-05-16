@@ -25,7 +25,6 @@ Intelligent systems and robotics laboratory**
  - [Assembly](#Assembly)
  - [Controller and motor](#Controller-and-motor)
  - [Mounting](#Mounting)
- 
  - [User manual](#User-manual)
  - [Collaboration team](#Collaboration-team)
  
