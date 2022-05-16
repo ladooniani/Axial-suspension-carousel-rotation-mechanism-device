@@ -18,8 +18,8 @@ Intelligent systems and robotics laboratory**
 
 ### ✔️ Content
 
- - [Device](#Device)
  - [Description](#Description)
+ - [Device](#Device)
  - [Repositories](#Repositories)
  - [Development and production](#Development-and-production)
  - [Assembly](#Assembly)
@@ -27,17 +27,18 @@ Intelligent systems and robotics laboratory**
  - [Mounting](#Mounting)
  - [User manual](#User-manual)
  - [Collaboration team](#Collaboration-team)
+
+ 
+# Description
+ 
+ The device provides installation on the vertical rope, passing through the axis and rotation of suspended objects with a uniformly distributed weight along the edges of the triangular disk tubes.
  
  # Device
  
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-mechanism-device-1.jpg" width="800">  
  
  <img src="https://github.com/Toy-Artificial-Intelligence-lab/Axial-suspension-carousel-rotation-mechanism-device/blob/main/image/tasrm-mechanism-device-0.jpg" width="800">  
- 
-# Description
- 
- The device provides installation on the vertical rope, passing through the axis and rotation of suspended objects with a uniformly distributed weight along the edges of the triangular disk tubes.
- 
+
 https://user-images.githubusercontent.com/33939191/167609797-0ee49cca-c6a5-4780-bd5a-cdfbbf4b9525.mp4
 
 # Repositories 
