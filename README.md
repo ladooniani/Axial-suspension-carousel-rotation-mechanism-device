@@ -35,6 +35,7 @@ The device provides installation on the vertical rope, passing through the axis,
 
 - Device weight: 3.23 kg.
 - Device weight including suspension parts: 4.3 kg.
+- Power source: 9V 1.3A
  
  # Device
  
